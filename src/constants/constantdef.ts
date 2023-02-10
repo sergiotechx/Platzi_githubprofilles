@@ -1,0 +1,1 @@
+export const GithubApiURL='https://api.github.com/users/';
